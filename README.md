@@ -1,6 +1,7 @@
 <h1>Chi sono</h1>
 <p>Sono Leoanrdo Ciaglia e sono uno studente dell'indirizzo informatica dell'Einstein De Lorenozo di Potenza</p>
 
+<h2>COMPETENZE</h2>
 <table>
   <tr>
     <td><img src="https://www.distortionbyte.com/images/it/informatica/linguaggi/linguaggio-c/c-programming.svg" height="100px" width="100px"/></td>
