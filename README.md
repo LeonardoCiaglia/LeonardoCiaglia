@@ -1,5 +1,5 @@
 <h1>Chi sono</h1>
-<p>sono Leoanrdo Ciaglia e sono uno studente dell'indirizzo informatica dell'Einstein De Lorenozo di Potenza</p>
+<p>Sono Leoanrdo Ciaglia e sono uno studente dell'indirizzo informatica dell'Einstein De Lorenozo di Potenza</p>
 
 
 
